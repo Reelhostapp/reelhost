@@ -14,7 +14,7 @@
 | **Mac** macOS 12 or later, Apple silicon or Intel | [Download for Mac](https://api.reelhost.app/download?platform=mac) |
 | **Docker** Synology, Unraid, TrueNAS, Linux | [Set up the Docker edition](https://reelhost.app/#download) |
 
-Every version, with its notes, is also on this repository's [Releases](https://github.com/davidalimi2/reelhostapp/releases) page. Reelhost updates itself, so you only download it once.
+Every version, with its notes, is also on this repository's [Releases](https://github.com/Reelhostapp/reelhost/releases) page. Reelhost updates itself, so you only download it once.
 
 > Windows: code signing with Microsoft is being finished, so for now Windows may warn you once. Choose **More info**, then **Run anyway**. The Mac app is signed and notarized by Apple.
 
@@ -32,7 +32,7 @@ The check-up is free. Plans: Core, Complete (lifetime licenses) and Yearly. See 
 
 ## Found a bug?
 
-[Open an issue](https://github.com/davidalimi2/reelhostapp/issues/new/choose), or use **Get help** in the app: it fills in a short diagnostics report you can read before sending. For anything about your purchase or license, write to [support@reelhost.app](mailto:support@reelhost.app).
+[Open an issue](https://github.com/Reelhostapp/reelhost/issues/new/choose), or use **Get help** in the app: it fills in a short diagnostics report you can read before sending. For anything about your purchase or license, write to [support@reelhost.app](mailto:support@reelhost.app).
 
 ---
 
