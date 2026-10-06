@@ -1,0 +1,39 @@
+name: Bug report
+description: Something in Reelhost doesn't work as it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Please don't paste your license key, passwords or your web address here: this page is public.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where do you run Reelhost?
+      options: [Windows, Mac, Docker]
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Reelhost version
+      description: Shown at the bottom of Reelhost's menu, for example 0.2.6.
+    validations:
+      required: true
+  - type: input
+    id: jellyfin
+    attributes:
+      label: Jellyfin version
+      placeholder: "10.11.0"
+  - type: textarea
+    id: more
+    attributes:
+      label: Anything else
+      description: Screenshots help. The diagnostics report from Get help in the app is useful too (check it for anything private first).

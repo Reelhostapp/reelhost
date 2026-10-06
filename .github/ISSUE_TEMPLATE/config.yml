@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Purchase, license or account question
+    url: mailto:support@reelhost.app
+    about: Payments and license keys are handled by email, never in public issues.
+  - name: Help with setting up
+    url: https://reelhost.app/help
+    about: Step-by-step answers for the most common questions.

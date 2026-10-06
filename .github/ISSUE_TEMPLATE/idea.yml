@@ -1,0 +1,14 @@
+name: Idea
+description: Something you'd like Reelhost to do.
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Reelhost to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help you?
