@@ -16,7 +16,7 @@
 
 Every version, with its notes, is also on this repository's [Releases](https://github.com/Reelhostapp/reelhost/releases) page. Reelhost updates itself, so you only download it once.
 
-> Windows: code signing with Microsoft is being finished, so for now Windows may warn you once. Choose **More info**, then **Run anyway**. The Mac app is signed and notarized by Apple.
+> The Windows installer is signed by **Wizzered Inc.** and the Mac app is signed and notarized by Apple. If Windows still shows a notice the first time, check it names Wizzered Inc., then choose **More info** and **Run anyway**.
 
 <p align="center"><img src="assets/check-up.jpg" alt="Reelhost's free check-up listing six things to fix, each explained in plain words" width="760"></p>
 
